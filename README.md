@@ -1,5 +1,5 @@
-Read Me About SMJobBless
-========================
+SMJobBless
+==========
 1.5
 
 SMJobBless demonstrates how to embed a privileged helper tool in an application, how to securely install that tool, and how to associate the tool with the application that invokes it.
